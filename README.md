@@ -133,7 +133,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=OtmaneTouhami&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=OtmaneTouhami&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=OtmaneTouhami&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" />
