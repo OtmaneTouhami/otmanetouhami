@@ -19,115 +19,67 @@
 
 ## 🧰 My Toolbox
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-      <br>REST API
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <br>
+  
+  <!-- Frontend & Languages -->
+  <div style="margin: 20px 0;">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="70" height="70" style="margin: 15px;" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70" style="margin: 15px;" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="70" height="70" style="margin: 15px;" />
+    <img src="https://skillicons.dev/icons?i=nextjs" width="70" height="70" alt="Next.js" style="margin: 15px;" />
+    <img src="https://skillicons.dev/icons?i=angular" width="70" height="70" alt="Angular" style="margin: 15px;" />
+  </div>
+  
+  <!-- Backend & Databases -->
+  <div style="margin: 20px 0;">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="70" style="margin: 15px;" />
+    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="70" height="70" style="margin: 15px;" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="70" height="70" style="margin: 15px;" />
+    <img src="https://skillicons.dev/icons?i=php" width="70" height="70" alt="PHP" style="margin: 15px;" />
+    <img src="https://skillicons.dev/icons?i=laravel" width="70" height="70" alt="Laravel" style="margin: 15px;" />
+  </div>
+  
+  <!-- Databases & Cloud -->
+  <div style="margin: 20px 0;">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="70" height="70" style="margin: 15px;" />
+    <img src="https://skillicons.dev/icons?i=mongodb" width="70" height="70" alt="MongoDB" style="margin: 15px;" />
+    <img src="https://skillicons.dev/icons?i=postgres" width="70" height="70" alt="PostgreSQL" style="margin: 15px;" />
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="70" height="70" style="margin: 15px;" />
+    <img src="https://skillicons.dev/icons?i=firebase" width="70" height="70" alt="Firebase" style="margin: 15px;" />
+  </div>
+  
+  <!-- DevOps & Tools -->
+  <div style="margin: 20px 0;">
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="70" height="70" style="margin: 15px;" />
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="70" height="70" style="margin: 15px;" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="70" height="70" style="margin: 15px;" />
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="70" height="70" alt="TensorFlow" style="margin: 15px;" />
+    <img src="https://skillicons.dev/icons?i=figma" width="70" height="70" alt="Figma" style="margin: 15px;" />
+  </div>
+  
+  <br>
+</div>
 
 ### 🔍 Additional Skills
-<div>
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Power%20Bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
-  </p>
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" style="margin: 8px;"/>
+  <br>
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" style="margin: 8px;"/>
+  <br>
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" style="margin: 8px;"/>
+  <br>
+  <img src="https://img.shields.io/badge/Power%20Bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="margin: 8px;"/>
+  <br><br>
 </div>
 
 ## 📊 GitHub Analytics
@@ -150,9 +102,11 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OtmaneTouhami&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8" />
-</p>
+<div align="center">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=OtmaneTouhami&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
+  <br><br>
+</div>
 
 ## 🎓 Education & Professional Journey
 
