@@ -102,19 +102,11 @@
 
 ## 🏆 GitHub Trophies
 
-<details>
-  <summary>Click to view my GitHub Trophies</summary>
-  <div align="center">
-    <br>
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=OtmaneTouhami&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" 
-      alt="GitHub Trophies" 
-    />
-    <br>
-    <p><i>If trophies aren't loading, the service may be experiencing high traffic.</i></p>
-    <br>
-  </div>
-</details>
+<div align="center">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=OtmaneTouhami&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies - Image may not load due to high traffic" />
+  <br><br>
+</div>
 
 ## 🎓 Education & Professional Journey
 
