@@ -1,9 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Otmane+Touhami+%F0%9F%91%8B;Full-Stack+Developer+%26+Technology+Enthusiast" alt="Typing SVG" />
-
   <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Building%20digital%20experiences%20that%20matter-blue" alt="Building digital experiences that matter"/>
-  <br/>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!--   <br/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%"> -->
 </div>
 
 ## 🧠 About Me
@@ -180,9 +179,9 @@
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<!-- <div align="center">
+   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div> -->
 
 ## 📫 Connect With Me
 <br/>
@@ -200,7 +199,7 @@
 
 <!-- Custom footer design with extra details -->
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!--   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
   
   ### "Code is like humor. When you have to explain it, it's bad." — Cory House
   
